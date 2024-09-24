@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pig
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=boolean\ isGameWon()
+comment1.text=\r\n\ This\ method\ allows\ the\ game\ to\ know\ when\ to\ transition\ to\ the\ winning\ screen.\r\n
+comment2.params=
+comment2.target=void\ transitionToGameWonWorld()
+comment2.text=\r\n\ This\ method\ makes\ the\ current\ world\ the\ winning\ screen.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Pig\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ This\ method\ allows\ the\ keyboard\ to\ send\ inputs\ to\ move\ the\ pig\ around.\r\n
+comment5.params=
+comment5.target=void\ eat()
+comment5.text=\r\n\ This\ method\ lets\ the\ pig\ eat\ the\ burgers\ when\ they\ overlap.\ \r\n
+numComments=6

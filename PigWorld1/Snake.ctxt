@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=Snake()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=boolean\ isGameLost()
+comment2.text=\r\n\ This\ method\ allows\ the\ game\ to\ know\ when\ to\ transition\ to\ the\ losing\ screen\r\n
+comment3.params=
+comment3.target=void\ transitionToGameLostWorld()
+comment3.text=\r\n\ This\ method\ transitions\ the\ current\ world\ to\ the\ losing\ screen.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Snake\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=
+comment5.target=void\ moveAround()
+comment5.text=\r\n\ This\ method\ will\ move\ the\ snake\ randomly\ to\ try\ and\ catch\ your\ pig.\r\n
+comment6.params=
+comment6.target=void\ eat()
+comment6.text=\r\n\ Act\ -\ do\ whatever\ the\ Pig\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=7
